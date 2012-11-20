@@ -1,4 +1,4 @@
-<b>GDG Event Administration<b>
+GDG Event Administration
 
 Description 
 App intended to make Event administration for GDG leads easier. 
