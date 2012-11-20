@@ -25,6 +25,9 @@ einscription.gs
 
 
 
+Observations 
+All the coding and comments are in English but the App itselve is in 
+Portuguese as this app is initiated in Brazil. 
 
 
 Issues
