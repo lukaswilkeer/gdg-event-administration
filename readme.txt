@@ -4,7 +4,6 @@ Description
 App intended to make Event administration for GDG leads easier. 
 
 
-
 Tecnology 
 Google sites 
 Google Drive (Spreadsheet, docs) 
@@ -16,7 +15,6 @@ Files
 Events.ods
 emailTemplateConfirm.odt
 EmailTemplateWait.odt
-
 
 
 
@@ -35,9 +33,11 @@ Issues
 
 
 
-Forum 
-https://groups.google.com/forum/#!forum/gdg-event-administration
-http://code.google.com/p/gdg-event-administration/
+Related sites 
+GDG-BH 	    http://bh.gtugs.org/projetos/projeto-event-administration
+Forum       https://groups.google.com/forum/#!forum/gdg-event-administration
+Google Code http://code.google.com/p/gdg-event-administration/
+
 
 
 
