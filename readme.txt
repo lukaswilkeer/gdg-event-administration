@@ -36,7 +36,7 @@ Issues
 Related sites 
 GDG-BH 	    http://bh.gtugs.org/projetos/projeto-event-administration
 Forum       https://groups.google.com/forum/#!forum/gdg-event-administration
-Google Code http://code.google.com/p/gdg-event-administration/
+Google Code http://code.google.com/p/gdg-event-administration/ (main)
 
 
 
