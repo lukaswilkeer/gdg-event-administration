@@ -1,4 +1,4 @@
-/**
+/*
 *
 * Make sure to include the library itselve in the resources
 *
@@ -172,4 +172,23 @@ function whoIs(){
   return whoIs
   }
   else {return "Unknown"}
+}
+
+
+/**
+* name: blanksToUnderscore
+* function: Change blanks between two words to a underscore 
+* input: 
+* {string} A value (most likely some variable gained from input)
+* output:  
+* {string} A value with no blanks 
+* Example: app.add.createLabel(library.blanksToUnderscore('gdg bh'));
+* shows : 'gdg_bh'
+* Note: 
+*
+*/
+function blanksToUnderscore(string) {
+  string = string.replace(/^\s+|\s+$/g,""); //remove white space before and after
+  string = string.replace(/\s/g,  "_");
+  return string;  
 }
