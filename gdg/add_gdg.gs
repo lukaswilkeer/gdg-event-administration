@@ -204,10 +204,10 @@ var _mandatorystar = {
   
   titlePanel.add(gdgLogo,0,-13);
   titlePanel.add(titleLabel,80,20);  
-  titlePanel.add(upArrow,415,4);
-  titlePanel.add(upButton,415,4);
-  titlePanel.add(downArrow,415,30);
-  titlePanel.add(downButton,415,30);
+  titlePanel.add(upArrow,410,4);
+  titlePanel.add(upButton,410,4);
+  titlePanel.add(downArrow,410,30);
+  titlePanel.add(downButton,410,30);
   
   
   //
