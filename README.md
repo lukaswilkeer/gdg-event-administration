@@ -26,29 +26,30 @@ Depois iremos marcar você na mesma, e pronto, já pode começar a codar! ;D
 #### Boas práticas
 1. Todo o projeto deve ser em INGLÊS.
 2. Commit.
-    2.1. Todo commit deve possuir um prefixo, ex: [#34][Nome do Arquivo.gs] - Mensagem de commit.
+    2.1. Todo commit deve possuir um prefixo, ex: [ #34 ][Nome do Arquivo.gs] - Mensagem de commit.
     2.2. Os commits devem ser em INGLÊS.
     2.3. Faça micro-commits, para facilidar para você epara todos os outros!
 3. Comente o seu projeto! Comente o que cada função faz.
 
 #### Desenvolvimento
 1. If's, for, ou qualquer outro loop, devem seguir o seguinte padrão. 
-> if(  ){
->  }
+    if(  ){
+    }
 2. Funções devem seguir o seguinte padrão.
->  function ()
-> {
->  código
-> }
+    function ()
+    {
+       código
+    }
 3. Nomeclatura de variavéis, Id e afins.
     * Nome de funções e variaveis devem ser em cammelCase. Ex: exemploDeNomeDeFuncao().
     * Nome ID's devem ser em lower case usando o unserline. Ex: .setId('exemplo_ de_id');
     * Códigos CSS devem ster em seu inicio unserline e em cammelCase. Ex: library.applyCSS('exemplo_de_id',_cssDoExemploDeId);
+    * Identação com 4 espaçamentos.
 Exemplo de código:
->  var nameLabel = app.createLabel("Name:").setId('name_label').setVisible(true);
->  var nameTextbox = app.createTextBox().setId('name_textbox').setVisible(true);
->  library.applyCSS(nameLabel, _nameLabel);
->  library.applyCSS(nameTextbox, _nameTextbox);
+    var nameLabel = app.createLabel("Name:").setId('name_label').setVisible(true);
+    var nameTextbox = app.createTextBox().setId('name_textbox').setVisible(true);
+    library.applyCSS(nameLabel, _nameLabel);
+    library.applyCSS(nameTextbox, _nameTextbox);
 4. Seja educado, siga os padrões. ;D Desta forma, _Quando você ver uma variavél_ saberá o que é, e pra que serve.
 
 
